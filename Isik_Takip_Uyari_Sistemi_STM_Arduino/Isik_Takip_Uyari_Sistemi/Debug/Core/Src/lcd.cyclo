@@ -1,0 +1,13 @@
+../Core/Src/lcd.c:24:19:Lcd_create	1
+../Core/Src/lcd.c:50:6:Lcd_init	2
+../Core/Src/lcd.c:68:6:Lcd_int	1
+../Core/Src/lcd.c:79:6:Lcd_string	2
+../Core/Src/lcd.c:89:6:Lcd_cursor	1
+../Core/Src/lcd.c:103:6:Lcd_clear	1
+../Core/Src/lcd.c:110:6:Lcd_define_char	2
+../Core/Src/lcd.c:120:6:Lcd_clear_row	1
+../Core/Src/lcd.c:128:6:Lcd_blink_message	2
+../Core/Src/lcd.c:141:6:Lcd_scroll_message	2
+../Core/Src/lcd.c:158:6:lcd_write_command	2
+../Core/Src/lcd.c:173:6:lcd_write_data	2
+../Core/Src/lcd.c:188:6:lcd_write	2
